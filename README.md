@@ -23,8 +23,6 @@
 <img src="https://raw.githubusercontent.com/MobileFirstInc/ADCFlipkart/master/Images/0009.jpg" alt=" text" width="70%" />
 
 
-<img src="https://raw.githubusercontent.com/MobileFirstInc/ADCFlipkart/master/Images/000xxx.jpg" alt=" text" width="70%" />
-
 
 <img src="https://raw.githubusercontent.com/MobileFirstInc/ADCFlipkart/master/Images/0010.jpg" alt=" text" width="70%" />
 
